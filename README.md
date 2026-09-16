@@ -5,11 +5,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Loan-Origination-System/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Loan-Origination-System?style=social" alt="GitHub stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Loan-Origination-System/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Loan-Origination-System?style=social" alt="GitHub forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Loan-Origination-System/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
   <img src="https://img.shields.io/badge/Fintech-Lending%20%26%20LOS-emerald" alt="Domain">
   <img src="https://img.shields.io/badge/Last%20Updated-September%202026-brightgreen" alt="Last Updated">
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -32,6 +35,8 @@ Whether you are building a modern digital lender, evaluating commercial banking 
 - [🎯 Key Evaluation Criteria for LOS Selection](#-key-evaluation-criteria-for-los-selection)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer](#️-disclaimer)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -98,3 +103,21 @@ Contributions are welcome! Please follow these guidelines:
 ## ⚖️ Disclaimer
 
 *This repository is curated for informational and educational purposes. Product pricing, free trial availability, market capitalization, and software features are accurate as of September 2026 and subject to change by vendor management.*
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated list helpful for your research, software evaluation, or fintech architecture, please consider supporting the project!
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🔀 **Fork and share** it with fellow developers, fintech founders, and banking engineers.
+- 💖 **Sponsor / Buy me a coffee**: If you'd like to support ongoing updates, maintenance, and research for this and other open-source projects, visit the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for your support! 🙏
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Loan-Origination-System&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Loan-Origination-System&type=date&legend=top-left)
