@@ -65,9 +65,9 @@ Below is a detailed comparison of leading commercial SaaS Loan Origination Syste
 
 ## ⚡ Open-Source GitHub Repositories
 
-Below are notable open-source core banking engines, loan management systems, and origination modules, sorted by **GitHub Star Count (Descending)**.
+Below are notable open-source core banking engines, loan management systems, and origination modules, sorted by **GitHub Stars_Count (Descending)**.
 
-| 📦 Repository Name | ⭐ GitHub Star Count | 📜 Description & Core Capabilities |
+| 📦 Repository Name | ⭐ GitHub Stars_Count | 📜 Description & Core Capabilities |
 | :--- | :--- | :--- |
 | **[Apache Fineract](https://github.com/apache/fineract)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social)](https://github.com/apache/fineract/stargazers) | Enterprise open-source core banking engine with robust loan origination, credit scoring, portfolio management, multi-currency support, and accounting. |
 | **[Open Bank Project API](https://github.com/OpenBankProject/OBP-API)** | [![GitHub_Stars](https://img.shields.io/github/stars/OpenBankProject/OBP-API?style=social)](https://github.com/OpenBankProject/OBP-API/stargazers) | Open RESTful API platform for banks providing Open Banking, PSD2/XS2A compliance, customer intake, and lending integration endpoints. |
